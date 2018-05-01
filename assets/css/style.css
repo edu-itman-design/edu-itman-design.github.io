@@ -2334,10 +2334,10 @@ header nav.navbar.white #search-box .form-input i {
   z-index: 2;
   background-color: white; }
 #page-content.footer-fixed {
-  margin-bottom: 390px; }
+  margin-bottom: 360px; }
 @media screen and (max-width: 1199px) {
   #page-content.footer-fixed {
-    margin-bottom: 260px; } }
+    margin-bottom: 300px; } }
 @media screen and (max-width: 991px) {
   #page-content.footer-fixed {
     margin-bottom: 0; } }
