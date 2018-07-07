@@ -30,7 +30,7 @@ var $ = jQuery.noConflict();
     /* =  Countdown js
     /*-------------------------------------------------*/
     $("#count-down")
-        .countdown("2018/5/15", function(event) {
+        .countdown("2018/8/4", function(event) {
             $(this).text(
                 event.strftime('%D天 %H小时%M分钟%S秒')
             );
