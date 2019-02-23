@@ -475,7 +475,6 @@ var $ = jQuery.noConflict();
         var secondSentence = $("#typed").attr('data-typed-second');
         $("#typed").typed({
             strings: [firstSentence, secondSentence],
-            typeSpeed: 0,
             loop: true,
             typeSpeed: 150
         });
